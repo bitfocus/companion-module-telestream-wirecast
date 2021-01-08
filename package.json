@@ -1,0 +1,24 @@
+{
+  "name": "telestream-wirecast",
+  "version": "1.0.0",
+  "api_version": "1.0.0",
+	"support": {
+		"action": true,
+		"feedback": false,
+		"preset": false
+	},
+  "description": "",
+  "keywords": [
+    "Wirecast",
+    "EventsController"
+	],
+	"manufacturer": "Telestream",
+	"product": "Wirecast",
+	"shortname": "wirecast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CVM Eventi <matteo.piccina@cvm.it>",
+  "license": "MIT"
+}
